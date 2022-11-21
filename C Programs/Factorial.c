@@ -11,6 +11,7 @@ for(i=1;i<=n;i++)
 }
 printf("\n Factorial is = ",fact);
   add();
+  printf("\n Welcome");
 }
 void add()
 {
